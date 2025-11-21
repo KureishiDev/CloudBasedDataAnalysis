@@ -1,7 +1,7 @@
 
 
 import json
-import boto3  # For AWS services (replace with Azure/GCP equivalents)
+import boto3  
 import pandas as pd
 import io
 
